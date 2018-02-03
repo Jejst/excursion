@@ -1,3 +1,36 @@
-h1 {
-  color: green;
+html {
+  background-color: black;
+  text-align: center;
+}
+
+#discover {
+  font-family: Verdana;
+  color: white;
+  font-size: 50 px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.coming {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42 px;
+  color: white;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16 px;
+}
+
+
+#middle {
+  font-family: Verdana;
+  font-size: 21 px;
+  color: gray;
+}
+
+#Excursion{
+  text-align: right;
+  color: gray;
 }
